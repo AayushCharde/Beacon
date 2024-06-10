@@ -16,9 +16,11 @@ Beacon is a Flutter mobile application designed to empower users with real-time 
 
 ## Screenshots
 
-![Screenshot 1](AppUI/2..Education_screen.png)
-![Screenshot 2](AppUI/3..Government_screen.png)
-![Screenshot 3](AppUI/4..Agriculture_screen.png)
+##Main 3 Screens
+
+![Screenshot 1](2..Education_screen.png)
+![Screenshot 2](3..Government_screen.png)
+![Screenshot 3](4..Agriculture_screen.png)
 
 ## Architecture
 
