@@ -74,7 +74,7 @@ Contributions to Beacon are welcomed and encouraged! Here's how you can contribu
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [GNU GPLv3 License](LICENSE).
 
 ---
 
